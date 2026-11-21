@@ -70,6 +70,7 @@ Standards, reference codecs, and research methods aimed at bitrate reduction and
 | :--- | :--- | :--- | :--- |
 | **MPEG-I GSC (GS4 / GS5)** | Standardization (V-PCC & G-PCC) | Official ISO/IEC profiles for interoperable Gaussian Splat compression, including anchors and *Common Test Conditions (CTC)*. | [MPEG GSC Portal](https://mpeg.expert/gsc/index.html) |
 | **MPEG V-PCC TMC2 (GS4)** | Video-based (`ISO/IEC 23090-5`) | Public reference software on GitHub with support for the GS4 profile. | [GitHub](https://github.com/MPEGGroup/mpeg-pcc-tmc2) |
+| **MPEG V-PCC TMC13-GS** | Geometry-based GSC | Public reference software on GitHub with support for the GS4 profile. | [GitHub](https://github.com/MPEGGroup/mpeg-pcc-tmc13-gs) |
 | *To be added...* | *Neural / entropy-based codecs* | *Reserved for literature methods (e.g., HAC, ContextGS, CompGS).* | — |
 
 ## Rendering and Visualization Tools
