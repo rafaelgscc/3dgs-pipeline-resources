@@ -99,6 +99,8 @@ Curated list of scientific papers relevant to the state of the art in 3DGS, comp
 | Year | Title | Authors | Focus / Main Contribution | Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026 | **Quality Assessment of 3D Gaussian Splatting: Distortions, Benchmarks, and Open Challenges** | Shuai Liu, Binqiang Liu, Qingyu Mao, Jiacong Chen, Yongsheng Liang, Youneng Bao | Critical survey on 3DGS-QA. Establishes a taxonomy of native 3DGS distortions (*needle-like*, *floaters*, *popping*, *cloud-like blur*, *aliasing*), compares subjective benchmarks, analyzes objective metric reliability, and proposes guidelines for native evaluation protocols. | [arXiv:2609.23027](https://arxiv.org/abs/2609.23027) |
+| 2026 | **Perceptual Quality Assessment of 3D Gaussian Splatting: A Subjective Dataset and Prediction Metric**
+ | Zhaolin Wan, Yining Diao, Jingqi Xu, Hao Wang, Zhiyang Li, Xiaopeng Fan, Wangmeng Zuo, Debin Zhao | An publicly-available 3DGS-QA dataset | [github.com/diaoyn/3DGSQA](https://github.com/diaoyn/3DGSQA) |
 
 ### 3DGS Compression and Representation
 
