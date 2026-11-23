@@ -70,6 +70,7 @@ Standards, reference codecs, and research methods aimed at bitrate reduction and
 | :--- | :--- | :--- | :--- |
 | **MPEG-I GSC (GS4 / GS5)** | Standardization (V-PCC & G-PCC) | Official ISO/IEC profiles for interoperable Gaussian Splat compression, including anchors and *Common Test Conditions (CTC)*. | [MPEG GSC Portal](https://mpeg.expert/gsc/index.html) |
 | **MPEG V-PCC TMC2 (GS4)** | Video-based (`ISO/IEC 23090-5`) | Public reference software on GitHub with support for the GS4 profile. | [GitHub](https://github.com/MPEGGroup/mpeg-pcc-tmc2) |
+| **MPEG V-PCC TMC13-GS** | Geometry-based GSC | Public reference software on GitHub with support for the GS4 profile. | [GitHub](https://github.com/MPEGGroup/mpeg-pcc-tmc13-gs) |
 | *To be added...* | *Neural / entropy-based codecs* | *Reserved for literature methods (e.g., HAC, ContextGS, CompGS).* | — |
 
 ## Rendering and Visualization Tools
@@ -98,7 +99,10 @@ Curated list of scientific papers relevant to the state of the art in 3DGS, comp
 
 | Year | Title | Authors | Focus / Main Contribution | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2025 | **3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting** | Yuke Xing, Jiarui Wang, William Gordon, Zhu Li, Guangtao Zhai, Yiling Xu | 3DGS-IEval-15K is the first large-scale image quality assessment (IQA) dataset specifically designed for compressed 3DGS representations. | [github.com/YukeXing/3DGS-IEval-15K](https://github.com/YukeXing/3DGS-IEval-15K) |
 | 2026 | **Quality Assessment of 3D Gaussian Splatting: Distortions, Benchmarks, and Open Challenges** | Shuai Liu, Binqiang Liu, Qingyu Mao, Jiacong Chen, Yongsheng Liang, Youneng Bao | Critical survey on 3DGS-QA. Establishes a taxonomy of native 3DGS distortions (*needle-like*, *floaters*, *popping*, *cloud-like blur*, *aliasing*), compares subjective benchmarks, analyzes objective metric reliability, and proposes guidelines for native evaluation protocols. | [arXiv:2609.23027](https://arxiv.org/abs/2609.23027) |
+| 2026 | **Perceptual Quality Assessment of 3D Gaussian Splatting: A Subjective Dataset and Prediction Metric** | Zhaolin Wan, Yining Diao, Jingqi Xu, Hao Wang, Zhiyang Li, Xiaopeng Fan, Wangmeng Zuo, Debin Zhao | An publicly-available 3DGS-QA dataset | [github.com/diaoyn/3DGSQA](https://github.com/diaoyn/3DGSQA) |
+
 
 ### 3DGS Compression and Representation
 
